@@ -21,10 +21,10 @@ A ```process``` function was defined to maintain the pixel values of the images 
 
 ### 2. Data Visualisation
 I observed some of the images present in the dataset.
-
-<img width="1125" alt="Screenshot 2024-08-24 at 3 52 22 PM" src="https://github.com/user-attachments/assets/32631860-b7b2-4054-a569-31230522de66">
-
-<img width="424" alt="Screenshot 2024-08-24 at 3 54 01 PM" src="https://github.com/user-attachments/assets/eb0a9c08-475a-4cbd-9abe-002094a62636">
+<p float="left">
+  <img width="530" alt="Screenshot 2024-08-24 at 4 21 30 PM" src="https://github.com/user-attachments/assets/8ba52f1a-2539-4c7e-aa3d-13cd628880ac">
+  <img width="405" alt="Screenshot 2024-08-24 at 3 54 01 PM" src="https://github.com/user-attachments/assets/eb0a9c08-475a-4cbd-9abe-002094a62636">
+</p>
 
 ### 3. Developing Simple CNNs
 I developed 5 simple CNNs with increasing complexity -
@@ -38,7 +38,7 @@ Take a look below for some snapshots of the models and their training process -
 <p float="left">
   <img width="1315" alt="CNN Model 1" src="https://github.com/user-attachments/assets/e558b751-c9c0-4df2-b625-e87064af8470">
   <img width="502" alt="CNN Model 2" src="https://github.com/user-attachments/assets/3f63157e-5230-4c78-82a3-212f01cb7357">
-  <img width="490" alt="CNN Model 3" src="https://github.com/user-attachments/assets/a6583ef6-010b-4433-8a7d-6e1d1f320481">
+  <img width="491" alt="CNN Model 3" src="https://github.com/user-attachments/assets/a6583ef6-010b-4433-8a7d-6e1d1f320481">
   <img width="525" alt="CNN Model 4" src="https://github.com/user-attachments/assets/86aa741a-1b76-4a7e-9199-99b34077527f">
   <img width="474" alt="CNN Model 5" src="https://github.com/user-attachments/assets/4422f8f2-bb83-4c3e-a003-722e4964c774">
 </p>

@@ -4,7 +4,8 @@
 - <b>Concepts:</b> CNNs, Data Augmentation, Transfer Learning, Data Visualisation
 - <b>Tools</b>: Google Colab, Kaggle, VS Code
 
-I developed this <s>FOR FUN</s> to revise Deep Learning fundamentals using the popular classification problem - <i><b>Cats Vs Dogs</b></i>!
+I developed this <s>FOR FUN</s> to revise Deep Learning fundamentals using the popular classification problem - <i><b>Cats Vs Dogs</b></i>!<br>
+If you'd like to upvote/comment/copy this notebook on Kaggle, here's the link to my <a href = "https://www.kaggle.com/code/adityapathak03/comprehensive-guide-to-cnns-with-cats-vs-dogs">Comprehensive Guide to CNNs with Cats Vs Dogs</a>!
 
 # Project Methodology & Details
 

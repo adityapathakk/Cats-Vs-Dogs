@@ -38,10 +38,10 @@ I developed 5 simple CNNs with increasing complexity -
 Take a look below for some snapshots of the models and their training process -
 <p float="left">
   <img width="1315" alt="CNN Model 1" src="https://github.com/user-attachments/assets/e558b751-c9c0-4df2-b625-e87064af8470">
-  <img width="502" alt="CNN Model 2" src="https://github.com/user-attachments/assets/3f63157e-5230-4c78-82a3-212f01cb7357">
-  <img width="491" alt="CNN Model 3" src="https://github.com/user-attachments/assets/a6583ef6-010b-4433-8a7d-6e1d1f320481">
-  <img width="525" alt="CNN Model 4" src="https://github.com/user-attachments/assets/86aa741a-1b76-4a7e-9199-99b34077527f">
-  <img width="474" alt="CNN Model 5" src="https://github.com/user-attachments/assets/4422f8f2-bb83-4c3e-a003-722e4964c774">
+  <img width="700" alt="CNN Model 2" src="https://github.com/user-attachments/assets/3f63157e-5230-4c78-82a3-212f01cb7357">
+  <img width="700" alt="CNN Model 3" src="https://github.com/user-attachments/assets/a6583ef6-010b-4433-8a7d-6e1d1f320481">
+  <img width="700" alt="CNN Model 4" src="https://github.com/user-attachments/assets/86aa741a-1b76-4a7e-9199-99b34077527f">
+  <img width="700" alt="CNN Model 5" src="https://github.com/user-attachments/assets/4422f8f2-bb83-4c3e-a003-722e4964c774">
 </p>
 Out of all these, Model 5 performed the best, with <b>both training accuracy and validation accuracy reaching > 91%</b>!
 
